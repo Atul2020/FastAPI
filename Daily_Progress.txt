@@ -1,0 +1,33 @@
+Day-1 [30-10-2020]:
+
+       1)Started learning Flask from the tutorial by Corey Schafer on Youtube.
+         The youtube link of the tutorial is: https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=TLPQMzAxMDIwMjCxwnf_LWmEZA&index=1&ab_channel=CoreySchafer
+
+       2)Installed Flask today and created my first flask project.
+
+       3)Learned how to run Flask server and how to traverse through different routes.
+
+       4)Learned how to use templates in Flask.
+
+       5)Went through till exercise 70 in numpy cheatsheet.
+
+Day-2 [31-10-2020]:
+	
+       1)Learned how to use template inheritance and how block content is used and how it reduces the code repetition.
+
+	 https://www.youtube.com/watch?v=DxI4jnb5m1Q&list=PLB5jA40tNf3vX6Ue_ud64DDRVSryHHr1h&index=5&ab_channel=TheCodex
+
+         https://www.youtube.com/watch?v=QnDWIZuWYW0&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH&index=2&ab_channel=CoreySchafer
+
+       2)Learned how to create a form in flask using Flask-wtf by using python classes.
+
+	 https://www.youtube.com/watch?v=-O9NMdvWmE8&list=PLB5jA40tNf3vX6Ue_ud64DDRVSryHHr1h&index=6&ab_channel=TheCodex
+
+         https://www.youtube.com/watch?v=UIJKdCIEXUQ&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH&index=3&ab_channel=CoreySchafer
+
+       3)Watched this video on mongodb vs mysql db to get to know the differences between them.
+         
+         https://www.youtube.com/watch?v=Ke4G-c94VBM&ab_channel=HiteshChoudhary
+	 
+       4)Went through till exercise 120 in numpy cheatsheet.
+
