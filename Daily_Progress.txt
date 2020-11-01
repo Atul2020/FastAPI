@@ -31,3 +31,18 @@ Day-2 [31-10-2020]:
 	 
        4)Went through till exercise 120 in numpy cheatsheet.
 
+
+Day-3 [01-11-2020]:
+       
+        1)Watched the below  video to first get to know what api's are.
+       
+          https://www.youtube.com/watch?v=tI8ijLpZaHk&ab_channel=HiteshChoudhary
+    
+        2)Watched the below 2 videos inorder to install Fastapi and uvicorn server.
+          Then created my first FastAPI hello world project.
+
+          https://www.youtube.com/watch?v=37rDqbhyCRs&list=PL5gdMNl42qynpY-o43Jk3evfxEKSts3HS&index=4&ab_channel=iGnaniAdda247
+          https://www.youtube.com/watch?v=7HPHiPvwjBE&list=PL5gdMNl42qynpY-o43Jk3evfxEKSts3HS&index=2&ab_channel=iGnaniAdda247
+
+	 Started learning about the path parameters present in Fastapi.
+
