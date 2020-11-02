@@ -46,3 +46,18 @@ Day-3 [01-11-2020]:
 
 	 Started learning about the path parameters present in Fastapi.
 
+
+Day-4 [02-11-2000]
+      
+       	1) Learned about what path and querry parameters are how they are implemented in fastapi.
+
+	   https://www.youtube.com/watch?v=vrTBIAfmN_8&list=PL5gdMNl42qynpY-o43Jk3evfxEKSts3HS&index=5&ab_channel=iGnaniAdda247
+	
+	   https://www.youtube.com/watch?v=h81xGNXySuI&list=PL5gdMNl42qynpY-o43Jk3evfxEKSts3HS&index=6&ab_channel=iGnaniAdda247
+	
+	2) Learned about what pydantic models are and created a todo app.
+
+	   https://www.youtube.com/watch?v=xq3IhXROGJU&list=PLShTCj6cbon9gK9AbDSxZbas1F6b6C_Mx&index=5&ab_channel=IsaiahTTech
+
+	3) Learned how a basic form is created.
+
