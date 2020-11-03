@@ -61,3 +61,14 @@ Day-4 [02-11-2000]
 
 	3) Learned how a basic form is created.
 
+Day-5 [3-11-2000]
+	
+	1) Learned about string and numeric validations on Query and Path parameters.
+	 
+	   https://www.youtube.com/watch?v=xR8SUg7Cx5w&list=PL5gdMNl42qynpY-o43Jk3evfxEKSts3HS&index=8&ab_channel=iGnaniAdda247
+		
+	   https://www.youtube.com/watch?v=PUhio8CprhI&list=PL5gdMNl42qynpY-o43Jk3evfxEKSts3HS&index=9&ab_channel=iGnaniAdda247
+        
+        2) Learned about Request and Response body
+           
+           https://www.youtube.com/watch?v=QUBdG1P0mVg&list=PL5gdMNl42qynpY-o43Jk3evfxEKSts3HS&index=7&ab_channel=iGnaniAdda247
