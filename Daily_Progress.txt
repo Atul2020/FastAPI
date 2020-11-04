@@ -1,38 +1,5 @@
-Day-1 [30-10-2020]:
 
-       1)Started learning Flask from the tutorial by Corey Schafer on Youtube.
-         The youtube link of the tutorial is: https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=TLPQMzAxMDIwMjCxwnf_LWmEZA&index=1&ab_channel=CoreySchafer
-
-       2)Installed Flask today and created my first flask project.
-
-       3)Learned how to run Flask server and how to traverse through different routes.
-
-       4)Learned how to use templates in Flask.
-
-       5)Went through till exercise 70 in numpy cheatsheet.
-
-Day-2 [31-10-2020]:
-	
-       1)Learned how to use template inheritance and how block content is used and how it reduces the code repetition.
-
-	 https://www.youtube.com/watch?v=DxI4jnb5m1Q&list=PLB5jA40tNf3vX6Ue_ud64DDRVSryHHr1h&index=5&ab_channel=TheCodex
-
-         https://www.youtube.com/watch?v=QnDWIZuWYW0&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH&index=2&ab_channel=CoreySchafer
-
-       2)Learned how to create a form in flask using Flask-wtf by using python classes.
-
-	 https://www.youtube.com/watch?v=-O9NMdvWmE8&list=PLB5jA40tNf3vX6Ue_ud64DDRVSryHHr1h&index=6&ab_channel=TheCodex
-
-         https://www.youtube.com/watch?v=UIJKdCIEXUQ&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH&index=3&ab_channel=CoreySchafer
-
-       3)Watched this video on mongodb vs mysql db to get to know the differences between them.
-         
-         https://www.youtube.com/watch?v=Ke4G-c94VBM&ab_channel=HiteshChoudhary
-	 
-       4)Went through till exercise 120 in numpy cheatsheet.
-
-
-Day-3 [01-11-2020]:
+Day-1 [01-11-2020]:
        
         1)Watched the below  video to first get to know what api's are.
        
@@ -47,7 +14,7 @@ Day-3 [01-11-2020]:
 	 Started learning about the path parameters present in Fastapi.
 
 
-Day-4 [02-11-2000]
+Day-2 [02-11-2000]
       
        	1) Learned about what path and querry parameters are how they are implemented in fastapi.
 
@@ -61,7 +28,7 @@ Day-4 [02-11-2000]
 
 	3) Learned how a basic form is created.
 
-Day-5 [3-11-2000]
+Day-3 [3-11-2000]
 	
 	1) Learned about string and numeric validations on Query and Path parameters.
 	 
@@ -72,3 +39,13 @@ Day-5 [3-11-2000]
         2) Learned about Request and Response body
            
            https://www.youtube.com/watch?v=QUBdG1P0mVg&list=PL5gdMNl42qynpY-o43Jk3evfxEKSts3HS&index=7&ab_channel=iGnaniAdda247
+
+Day-4 [4-11-2000]
+	
+	1)Learned about tortoise orm and how it is used to create models.
+	  
+	  https://www.youtube.com/watch?v=JDoS-YSlH-o&list=PLShTCj6cbon9gK9AbDSxZbas1F6b6C_Mx&index=7
+        
+	2)Learned about how pydantic models are validated using field object.
+	
+	  https://www.youtube.com/watch?v=uOKgtJiSznM&list=PL5gdMNl42qynpY-o43Jk3evfxEKSts3HS&index=11&ab_channel=iGnaniAdda247

@@ -25,7 +25,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../stock_screener" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -149,6 +149,7 @@
       <workItem from="1604243546435" duration="4073000" />
       <workItem from="1604301454494" duration="6995000" />
       <workItem from="1604400414324" duration="5557000" />
+      <workItem from="1604491207071" duration="1259000" />
     </task>
     <servers />
   </component>
